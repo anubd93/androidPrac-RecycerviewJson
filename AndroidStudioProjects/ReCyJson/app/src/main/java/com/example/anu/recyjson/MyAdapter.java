@@ -66,7 +66,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
             textView02 = (TextView) itemView.findViewById(R.id.textView02);
             row = (LinearLayout) itemView.findViewById(R.id.row);
             img = (ImageView) itemView.findViewById(R.id.img);
-            //// testgit
+            //// test
 
         }
     }
